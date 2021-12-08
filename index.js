@@ -156,9 +156,9 @@ import ReactDom from "react-dom";
 // import Project1 from "./Project1";
 // import Form from "./Form";
 // import Todo from './Todo';
-// import Crypto from './Crypto';
+import Crypto from './Crypto';
 // import GuessNo from './GuessNo';
-import Newapi from "./Newapi";
+// import Newapi from "./Newapi";
 // import Screenwidth from "./Screenwidth";
 // import Startnum from "./Startnum";
 import "./index.css";
@@ -168,11 +168,11 @@ ReactDom.render(
 <>
 {/* <Project1/> */}
 {/* <Todo/> */}
-{/* <Crypto/> */}
+<Crypto/>
 {/* <GuessNo/> */}
 {/* <Screenwidth/> */}
 {/* <Startnum/> */}
-<Newapi/>
+// <Newapi/>
 </>
 ,document.getElementById("root")
 );
