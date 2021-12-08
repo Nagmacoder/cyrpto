@@ -1,0 +1,415 @@
+/* *{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(117, 159, 236);
+
+}
+div{
+  color: black;
+  justify-content: center;
+  display:block;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 40px;
+  font-weight: bold;
+} */
+
+/* .heading{
+  text-shadow: 2px 3px 5px rgb(172, 240, 63);
+  font-size: 30px;
+} */
+/* 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #b4f2e1;
+}
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+h1{
+  padding: 20px 20px;
+  background: #ffe9c5;
+  color: #fa9191;
+  border-radius: 20px;
+
+}
+span{
+  color: #eb6383;
+  border-radius: 10px;
+  background: transparent;
+} */
+
+
+/* calculator */
+
+/* *{ margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #bb3eec;
+
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+ul{
+  list-style: none;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  word-spacing: 1px;
+  border: 2px solid black;
+  padding: 5px ;
+} */
+
+
+/* social media  */
+/* 
+*{ margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+background-color: #d2dbdd;
+}
+.heading{
+  padding: 30PX 0;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  background-color: white;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.card{
+  width: 100%;
+  height: auto;
+
+}
+
+.cards{
+margin: 6%;
+transition: all 0.4s cubic-bezier(0.175 ,0.885 , 0 , 1);
+background: #fff;
+width: 21.25%;
+border-radius: 12px;
+box-shadow: 0px 13px 10px -7px rgba(0,0,0,0.1);
+float: left;
+}
+
+.card:hover{
+  box-shadow: 0px 30px 18px -8px rgba(0,0,0,0.1) ;
+  transform: scale(1.05 , 1.05);
+}
+
+.card_img{
+width: 100%;
+height: 235px;
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+}
+.card_info{
+  background-color: #fff;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding: 16px 24px 24px 24px ;
+  background-color: #fff;
+}
+
+.card_category{
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  background-color: #fff;
+}
+
+.card_title{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: "Raleway", sans-serif;
+  background-color: #fff;
+  text-transform: capitalize;
+}
+
+button{
+  padding: 5px 8px ;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  background-color: #fff;
+  outline: none;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+@media (max-width:768px){
+  .card{
+    float: none;
+    margin: 5%;
+    width: 90%;
+  }
+}
+
+@media (max-width:470px){
+  .cards{
+    width: 90%;
+    display: block;
+    margin: 6%; 
+  }
+} */
+
+/* hook1 */
+/* 
+*{ margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+background-color: #2c6b79;
+color: white;
+}
+
+div{width: 100%;
+height: 100vh;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+margin-top: -30px;
+}
+
+.btn{
+  background: white;
+  color: #2c6b79;
+  border-radius: 6px;
+  border: 5px solid white;
+  padding: 10px;
+  margin: 20px;
+  font-size: 15px;
+  font-weight: bold;
+} */
+
+
+/* gigs */
+/* 
+*{ margin: 18px;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e4e7e7;
+  font-family: Centaury Schooibook;
+}
+.heading{
+  margin: 0 15px;
+  font-size: 35px;
+}
+div{
+  display: inline;
+}
+ul{
+  margin: 0;
+  display: inline;
+}
+li{
+  display: inline;
+  margin: 0;
+  padding: 15px;
+  font-size: 18px;
+  color: rgb(146, 146, 146);
+
+}
+li:hover{
+  cursor: pointer;
+  color: black;
+}
+button{
+  float: right;
+  padding: 11px;
+  margin: -8px 50px;
+  cursor: pointer;
+  background: rgb(28, 189, 82);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  font-size: 13px;
+}
+button:hover{
+font-weight: bold;
+font-size: 14px;
+padding: 10px;
+}
+.box{
+  display: block;
+  padding: 20px 0px;
+  background: white;
+}
+.pause{
+  background: white;
+  display: inline;
+  font-weight: bold;
+}
+.line{
+  margin: 15px 0;
+  padding: 0;
+}
+.list{
+float: right;
+margin: 0 10px;
+padding: 3px;
+background: white;
+border: 2px solid #b6b8b8;
+}
+.nav{
+ background: none;
+}
+h4{
+background: none;
+color: grey;
+display:inline;
+}
+.end{
+  color: rgb(28, 189, 82);
+  float:right;
+}
+.data{
+  display: block;
+ background: none;
+ margin: 15px 0;
+ padding: 0;
+} */
+
+/* ......cyrpto css..... */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(46, 44, 44);
+  color: white;
+}
+.cover{
+  display: inline;
+  text-align: center;
+  margin: auto;
+}
+.coins{
+flex-direction: row;
+margin: 5%;
+}
+h1{
+  font-size: 38px;
+}
+.text2{
+  margin-bottom: 32px;
+  margin-top: 15px;
+    text-align: center;
+}
+                                
+input{
+  background-image: linear-gradient(
+    -225deg
+    ,#ac32e4,#7918f2 48%,#4801ff);
+    color: #e2e2e2;
+    padding-left: 15px;
+    width: 300px;
+    height: 50px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+input::placeholder {
+  color:white;
+}
+
+.container{
+  display: flex;
+    justify-content: center;
+}
+.coin{
+  display: flex;
+  padding-right: 24px;
+  margin: 19px 15px ;
+}
+.img{
+  height: 35px;
+  width: 35px;
+  /* padding: 10px; */
+
+}
+.name{
+  font-size: 18px;
+    width: 150px;
+  padding: 10px;
+
+}
+.symbol{
+  text-transform: uppercase;
+  padding: 10px 50px;
+}
+.price{
+  padding: 10px 34px;
+}
+.total{
+  padding: 10px;
+}
+.perc{
+  padding: 10px;
+}
+.Mcap{
+  padding: 10px;
+
+}
+
+/* ....Guess Number.... */
+
+.btn{
+  display: inline;
+  background: linear-gradient(-225deg,pink,blue);
+  margin: 10px;
+  padding: 11px;
+  font-size: 18px;
+  margin-top: 10%;
+}
+
+.size{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.input{
+  margin-top: 10%;
+}
+.out{
+  display: block;
+  justify-content: center;
+  text-align: center;
+  margin: 10%;
+  font-size: 30px;
+}
+.plus,.clear{
+  background: linear-gradient(-225deg,pink,blue);
+  padding: 10px;
+  margin: 10px;
+  font-size: 18px;
+}
